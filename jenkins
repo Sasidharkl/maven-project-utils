@@ -1,0 +1,20 @@
+Jenkins is an open-source automation server that helps teams build, deploy, and automate projects: 
+Features
+Jenkins can manage and control various stages of the software delivery process, including: 
+Build 
+Documentation 
+Automated testing 
+Packaging 
+Static code analysis 
+Installation
+Jenkins can be installed through native system packages, Docker, or run standalone on any machine with a Java Runtime Environment (JRE) installed. 
+Configuration
+Jenkins can be set up and configured via its web interface. 
+Security
+Jenkins' security depends on access control and protection from external threats. 
+Integration
+Jenkins can integrate with virtually any tool used in software development, including: 
+Version control systems like Git 
+Issue tracking systems like JIRA 
+Artifact repositories like Artifactory 
+The name "Jenkins" was chosen because it was a common name for British butlers, which the tool's developer thought was analogous to the functionality of the tool. 
